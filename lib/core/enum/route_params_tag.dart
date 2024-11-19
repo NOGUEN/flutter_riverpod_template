@@ -1,0 +1,35 @@
+// ignore_for_file: constant_identifier_names
+
+enum RouteParamsTag {
+  EVENT_SUBSCRIBER,
+  LIVE_MAIN_TO_LIVE_DETAIL,
+  WEB_VIEW_MODEL,
+  SIGNUP_MODEL,
+  AUTH_ID,
+  POST_CATEGORY,
+  POST_ID,
+  OTHER_USER_ID,
+  USER_REQUEST_TYPE,
+  REQ_REGISTER_PLACE_DTO,
+  PLACE_MODEL,
+  PLACE_ID,
+  USER_POSITION,
+  ALARM_MODEL,
+  PLACE_SEARCH_KEYWORD,
+  LOCATION_MAP_MODEL,
+  QR_DATA_MODEL,
+  QR_TYPE,
+  DELIVERY_PLATFORM_ENUM,
+  DATE_TIME,
+
+  ///---------------------------------------------------------------------------------------------
+  ///이하 Store
+
+  STORE_SIGNUP_MODEL,
+  REGISTER_STORE_MODEL,
+  KAKAO_PLACE_MODEL,
+  STORE_LIST_ITEM_MODEL,
+  STORE_ID,
+  EVENT_ID,
+  EVENT_LIST_ITEM_MODEL
+}
